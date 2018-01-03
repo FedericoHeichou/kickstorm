@@ -2,7 +2,7 @@
 Massive kick members of a Facebook's group via HTTP REQUEST POST.
 You can use a whitelist wrote manually or generated automatically via API using an attending list of a Facebook's Event.
 
-This code is comment in Italian, so, if you don't know Italian, I suggest to use a translator.
+This code is commented in italian, so, if you don't know italian, I suggest to use a translator.
 
 ## How works, problems and suggestion. READ THIS
 #### How works
