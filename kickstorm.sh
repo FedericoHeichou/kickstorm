@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# AUTHOR: FEDERICO SABBATINI
 ###########################################################################################################
 # IMPORTANTE																																															#
 # Questo file prende le variabili dai file all'interno della cartella "../kickstorm/kickstorm"						#
