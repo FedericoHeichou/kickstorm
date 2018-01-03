@@ -1,5 +1,6 @@
 <?php
-	
+	//AUTHOR: FEDERICO SABBATINI
+
 	include_once('grablistamembri/config.php');
     
 	$lista_membri = array ();
