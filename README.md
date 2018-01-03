@@ -33,6 +33,11 @@ Run grablistamembri.php to create the blacklist (member to kick).
 php grablistamembri.php
 ```
 
+Grant to kickstorm.sh permission to run if necessary.
+```
+sudo chmod 770 kickstorm.sh
+```
+
 Run kickstorm.sh to run the kick for every member in the array generated from grablistamembri.php
 ```
 ./kickstorm.sh
