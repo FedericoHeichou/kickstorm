@@ -56,8 +56,8 @@ Run kickstorm.sh to run the kick for every member in the array generated from gr
 ./kickstorm.sh
 ```
 
-In the end you can delete every files in the "kickstorm/log/" and "grablistamembri/log/" folders.
+In the end you can delete every files in the "kickstorm/log" and "grablistamembri/log" folders.
 
-Please quote me.
+Please, quote me.
 
 Federico Sabbatini
